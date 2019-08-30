@@ -1,4 +1,4 @@
-# Open Budget: Wyoming
+# Open Budget: Kentwood
 
 ## 1. Develop Locally
 
@@ -78,9 +78,9 @@ This project is coded with:
 ## 6. Creating/Updating Budget Timeline
 The timeline is made using [TimelineJS](http://timeline.knightlab.com), an open-source tool that enables anyone to build visually rich, interactive timelines. Beginners can create a timeline using nothing more than a Google spreadsheet, like the one we used for the Timeline above. Experts can use their JSON skills to create custom installations, while keeping TimelineJS's core functionality.
 
-**A new timeline Google spreadsheet will be developed for the City of Wyoming.**
+**A new timeline Google spreadsheet will be developed for the City of Kentwood.**
 
-The Google spreadsheet is currently showing information for Grand Rapids, but this file will be used for the Wyoming Budget timelin. It is being driven by a Citizen Labs' shared Google Sheet, that can be [viewed here.](https://docs.google.com/spreadsheets/d/1G0I3Jh6Pfep7g0pM_ds65i5nBl1U61J9HPtBordykSg/edit?usp=sharing)
+The Google spreadsheet is currently showing information for Grand Rapids, but this file will be used for the Kentwood Budget timelin. It is being driven by a Citizen Labs' shared Google Sheet, that can be [viewed here.](https://docs.google.com/spreadsheets/d/1G0I3Jh6Pfep7g0pM_ds65i5nBl1U61J9HPtBordykSg/edit?usp=sharing)
 
 ## 7. Publishing Changes
 Make changes on your personal fork or branch. If you have repo access, and your changes are ready for review, you can merge them into the development branch and publish to the staging site for review. You can also publish changes to your own server and merge to development afterwards.

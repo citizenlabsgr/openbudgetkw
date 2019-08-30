@@ -1,15 +1,15 @@
-[Project Status & Tasks](https://github.com/citizenlabsgr/openbudgetwy/projects/1) | 
-[![Build Status](https://travis-ci.org/citizenlabsgr/openbudgetwy.svg?branch=master)](https://travis-ci.org/citizenlabsgr/openbudgetwy)
+[Project Status & Tasks](https://github.com/citizenlabsgr/openbudgetkw/projects/1) |
 
 
-# Open Budget Wyoming
 
-**Slack:** #project-openbudgetwy
+# Open Budget Kentwood
+
+**Slack:** #project-openbudgetkw
 
 **Project Description:**
-We are developing a way to better understand the budget process for the City of Wyoming. We will borrow much of what we have learned and developed from a similar project with the City of Grand Rapids. [openbudgetgr.org](http://openbudgetgr.org).
+We are developing a way to better understand the budget process for the City of Kentwood. We will borrow much of what we have learned and developed from a similar project with the City of Grand Rapids. [openbudgetgr.org](http://openbudgetgr.org).
 
-Our Open Budget project intends to promote a deeper understanding of the city budget, so that citizens, officials, and other stakeholders can engage in more informed dialogue about how the City of Wyoming currently works and how it should in the future.
+Our Open Budget project intends to promote a deeper understanding of the city budget, so that citizens, officials, and other stakeholders can engage in more informed dialogue about how the City of Kentwood currently works and how it should in the future.
 
 The Open Budget website is built using Node.js. During development the project is run locally on a computer. After acquiring and formatting the budget data properly you publish the website using Harp to compile the static files necessary for a Github posted website.
 
@@ -21,9 +21,9 @@ The Open Budget website is built using Node.js. During development the project i
 
 **Data:**
 
-City of Wyoming
+City of Kentwood
 
-- [FY2019 Data](https://github.com/citizenlabsgr/openbudgetwy/blob/master/data-files/2019/raw/CitizenLabExtract.csv)
+- [FY2019 Data]()
 
 ### Getting started:
 * Browse our help wanted issues. See if there is anything that interests you.
